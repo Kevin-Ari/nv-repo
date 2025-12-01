@@ -87,4 +87,12 @@ products = [
         "category": 'niño',
         "image": 'https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&h=300&fit=crop'
     }
+    {
+        "sku": 'NK-007',
+        "title": 'camisa',
+        "description": 'Camiseta de algodón',
+        "price": 3200,
+        "category": 'niño',
+        "image": 'https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&h=300&fit=crop'
+    }
 ]
